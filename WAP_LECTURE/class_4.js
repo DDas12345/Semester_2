@@ -46,9 +46,9 @@ console.log(num_slice)
 // console.log(num.includes(5))
 // console.log(num.sort())
 
-let number = [4,1,5,2,3]
-console.log(number.sort((a,b)=>a-b)) // ascending
-console.log(number.sort((a,b)=>b-a)) // descending
+let number = [4, 1, 5, 2, 3]
+console.log(number.sort((a, b) => a - b)) // ascending
+console.log(number.sort((a, b) => b - a)) // descending
 
 let array = [10, 20, 30];
 let a = array.push(40)
